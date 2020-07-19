@@ -14,4 +14,4 @@ You should include it like this in `package.json`
 }
 ```
 
-The sole purpose of this package is to provide the flag in `.flag`.
+The sole purpose of this package is to provide the "hidden" flag in `index.js`.

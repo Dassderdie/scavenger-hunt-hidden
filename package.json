@@ -1,0 +1,19 @@
+{
+  "name": "scavenger-hunt-hidden",
+  "version": "1.0.0",
+  "description": "This package is intended to be included as a hidden flag in fun scavenger hunts in node applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://https://github.com/Dassderdie/scavenger-hunt-hidden.git"
+  },
+  "keywords": [
+    "scavenger",
+    "flag"
+  ],
+  "author": "Julian Schmidt",
+  "license": "MIT"
+}
